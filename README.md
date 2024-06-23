@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to Mohamed's GitHub Profile! 👋
 
-<!--
-**dhubai/dhubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Mohamed, a passionate data scientist and AI/ML enthusiast. Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently exploring advanced techniques in machine learning to deepen my knowledge in predictive analytics and natural language processing.
+- 💼 I'm working as a data scientist at Apziva, where I apply machine learning models to solve real-world problems.
+- 💬 Ask me about anything related to data science, machine learning, or AI!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+- Languages: Python
+- Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Tools & Platforms: Jupyter Notebook
+
+Happy coding! ✨
+
