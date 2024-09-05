@@ -1,21 +1,21 @@
-# Welcome to Mohamed's GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-Hello! I'm Mohamed, a passionate data scientist and AI/ML enthusiast. Welcome to my GitHub profile.
+Hello! I'm Mohamed, an enthusiastic data scientist with a focus on machine learning and data analysis. Welcome to my GitHub space!
 
 ## About Me
-- 🌱 I’m currently exploring advanced techniques in machine learning to deepen my knowledge in predictive analytics and natural language processing.
-- 💼 I'm working as a data scientist at Apziva, where I apply machine learning models to solve real-world problems.
-- 💬 Ask me about anything related to data science, machine learning, or AI!
 
-## 🔧 Technologies & Tools
-Here are some of the technologies and tools I work with:
+- 🌱 I’m currently deepening my expertise in various machine learning techniques, including predictive analytics, natural language processing, and computer vision.
+- 💼 I apply my skills to develop innovative solutions, leveraging AI and data science to tackle complex challenges.
+- 💬 Feel free to ask me about data science, machine learning, or AI.
 
-- Languages: Python
-- Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Tools & Platforms: Jupyter Notebook
+## 🛠️ Technologies & Tools
 
-
+- **Languages:** Python, Sql
+- **Machine Learning Libraries:** TensorFlow, Keras, XGBoost, Scikit-learn  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Deep Learning Models:** LSTM, CNNs, XGBoost  
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, Spyder, VSC 
 
 Happy coding! ✨
+
 
