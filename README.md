@@ -10,7 +10,7 @@ Hello! I'm Mohamed, an enthusiastic data scientist with a focus on machine learn
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Sql
+- **Languages:** Python
 - **Machine Learning Libraries:** TensorFlow, Keras, XGBoost, Scikit-learn  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Deep Learning Models:** LSTM, CNNs, XGBoost  
