@@ -52,22 +52,11 @@
 
 
 
-
-
-
-
-
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=199BFF&repeat=false&width=435&lines=Happy+coding!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 
 
-# Welcome to My GitHub Profile! 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhubai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-Happy coding! ✨
 
