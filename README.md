@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- 
-      'conda' is the icon for Anaconda/Conda environments.
+      'anaconda' is the icon for Anaconda/Conda environments.
       'py' is for Python.
       'docker' for Docker.
       'pytorch' for PyTorch.
@@ -27,7 +27,7 @@
       'tensorflow' for TensorFlow.
       Add 'theme=dark' if you prefer a dark background on icons.
     -->
-    <img src="https://skillicons.dev/icons?i=conda,py,docker,pytorch,react,tensorflow&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=anaconda,py,docker,pytorch,react,tensorflow&theme=dark" />
   </a>
 </div>
 
