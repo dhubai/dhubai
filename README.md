@@ -39,7 +39,7 @@
   <img 
     width=390 
     src="https://github-readme-stats-salesp07.vercel.app/api?username=dhubai&count_private=true&show_icons=true&theme=holi&rank_icon=github&border_radius=10" 
-    alt="readme stats" 
+    alt="Github stats" 
   />
   <br/>
   <img 
@@ -67,15 +67,10 @@
 <div align="center">
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=dhubai&count_private=true&show_icons=true&theme=holi&border_radius=10"
-    alt="dhubai's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=dhubai&count_private=true&show_icons=true&theme=holi&border_radius=10&rank_icon=github"
+    alt="GitHub Stats"
   />
 </div>
 
 
-
-
-
-
-https://github-readme-stats.vercel.app/api?username=dhubai&count_private=true
 
