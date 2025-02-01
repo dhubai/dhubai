@@ -54,31 +54,3 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=199BFF&repeat=false&width=435&lines=Happy+coding!+%E2%9C%A8" alt="Typing SVG" /></a>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhubai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-<h2 align="center">Stats</h2>
-
-<div align="center">
-  <img
-    width="390"
-    src="https://github-readme-stats-fz23.vercel.app/api?username=dhubai&count_private=true&show_icons=true&theme=holi&border_radius=10&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <br/>
-  <img 
-    width=325 
-    src="https://github-readme-stats-fz23.vercel.app/api/top-langs/?username=dhubai&hide=HTML&langs_count=8&layout=compact&theme=holi&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="top langs" 
-  />
-</div>
-
-
-
-
-
