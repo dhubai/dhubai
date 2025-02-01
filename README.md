@@ -1,10 +1,10 @@
-<!-- View Count Badge -->
-<div align="right">
-  <img
-    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fdhubai%2Fdhubai.json&style=flat-square&logoColor=white&label=views&labelColor=black&color=blue"
-    alt="View Count"
-  />
-</div>
+<!-- Visitor Badge (laobi.icu) -->
+<img 
+  align="right" 
+  src="https://visitor-badge.laobi.icu/badge?page_id=dhubai.dhubai" 
+  alt="Visitors"
+/>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=199BFF&repeat=false&width=435&lines=Hey+there!+Welcome+to+My+GitHub+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
@@ -59,4 +59,22 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhubai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+<h2 align="center">Stats</h2>
+
+<div align="center">
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=dhubai&count_private=true&show_icons=true&theme=holi&border_radius=10"
+    alt="dhubai's GitHub Stats"
+  />
+</div>
+
+
+
+
+
+
+https://github-readme-stats.vercel.app/api?username=dhubai&count_private=true
 
